@@ -14,8 +14,8 @@ key: f366e876d8
 lang: python
 xp: 50
 skills: 2
-video_link: //player.vimeo.com/video/154563059
-video_hls: //videos.datacamp.com/transcoded/735_intro_to_python/v2/hls-ch2_1.master.m3u8
+video_link: //videos.datacamp.com/transcoded_mp4/735_intro_to_python/v5/735_ch2_1.mp4
+video_hls: //videos.datacamp.com/transcoded/735_intro_to_python/v5/hls-735_ch2_1.master.m3u8
 ```
 
 `@projector_key`
@@ -345,8 +345,8 @@ key: 9e15e5b8a0
 lang: python
 xp: 50
 skills: 2
-video_link: //player.vimeo.com/video/146994264
-video_hls: //videos.datacamp.com/transcoded/735_intro_to_python/v1/hls-ch2_2.master.m3u8
+video_link: //videos.datacamp.com/transcoded_mp4/735_intro_to_python/v5/735_ch2_2.mp4
+video_hls: //videos.datacamp.com/transcoded/735_intro_to_python/v5/hls-735_ch2_2.master.m3u8
 ```
 
 `@projector_key`
@@ -721,8 +721,8 @@ key: fbdaaec22a
 lang: python
 xp: 50
 skills: 2
-video_link: //player.vimeo.com/video/149289041
-video_hls: //videos.datacamp.com/transcoded/735_intro_to_python/v1/hls-ch2_3.master.m3u8
+video_link: //videos.datacamp.com/transcoded_mp4/735_intro_to_python/v5/735_ch2_3.mp4
+video_hls: //videos.datacamp.com/transcoded/735_intro_to_python/v5/hls-735_ch2_3.master.m3u8
 ```
 
 `@projector_key`

@@ -386,6 +386,52 @@ success_msg("Great!")
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 61d16ba45e
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: c21bcf69f0
+xp: 100
+```
+
+`@instructions`
+
+
+`@hint`
+
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
 ## Other variable types
 
 ```yaml
@@ -591,6 +637,23 @@ success_msg("Nice. Notice how `desc + desc` causes `\"compound interest\"` and `
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 674070b5ec
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+---
+
 ## Type conversion
 
 ```yaml
@@ -693,7 +756,7 @@ success_msg("Great! You have a profit of around $95; that's pretty awesome indee
 
 ---
 
-## Can Python handle everything?
+## C
 
 ```yaml
 type: MultipleChoiceExercise
@@ -727,4 +790,52 @@ msg2 = "It's perfectly possible to 'multiply strings' in Python..."
 msg3 = "Correct! Because you're not converting `2` to a string with [`str()`](https://docs.python.org/3/library/functions.html#func-str), this will give an error."
 msg4 = "`True + False` doesn't error out. Feel free to try it in the console to confirm!"
 Ex().has_chosen(3, [msg1, msg2, msg3, msg4])
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: ee79f46ad1
+xp: 100
+```
+
+d
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 6130153baf
+xp: 100
+```
+
+`@instructions`
+qsfdqsfqsfqsdfqsdfqsfqs qsfqsfqsfqsdfqsf qsfqsfqsfqsfqsfqsfqsfdfqsf
+qsfdqsfqsfqsdfqsdfqsfqs qsfqsfqsfqsdfqsf qsfqsfqsfqsfqsfqsfqsfdfqsf
+qsfdqsfqsfqsdfqsdfqsfqs qsfqsfqsfqsdfqsf qsfqsfqsfqsfqsfqsfqsfdfqsf
+
+`@hint`
+- sdf
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
 ```
